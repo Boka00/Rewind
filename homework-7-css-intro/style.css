@@ -113,7 +113,7 @@ h3{
     font-family: 'Inter', sans-serif;
     font-size: 24px;
     font-weight: semibold;
-    padding-top: 15px;
+    padding-bottom: 15px;
 }
 .cards .card:nth-child(1) .image{
     background-color: #C7B8FF;
